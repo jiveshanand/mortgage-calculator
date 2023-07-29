@@ -15,7 +15,7 @@ export const columns: ColumnsType<Object> = [
     dataIndex: "interest",
   },
   {
-    title: "Principla Amount",
+    title: "Principle Amount",
     dataIndex: "principle",
   },
   {
